@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ae162f1323f82f0",
+            "id": "f509aa9642aa5475",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d843a6a7dc309d51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Facts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Facts.md",
+                "file": "Fragen und Zitate/S1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Facts.md",
+                "file": "Fragen und Zitate/S1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Facts.md"
+                "file": "Fragen und Zitate/S1.md"
               }
             }
           }
@@ -159,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d843a6a7dc309d51",
+  "active": "f509aa9642aa5475",
   "lastOpenFiles": [
-    "Readme.md",
+    "Moe Telefon.md",
+    "Facts.md",
     "Fragen und Zitate/S1.md",
-    "Facts.md"
+    "Readme.md"
   ]
 }
