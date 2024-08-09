@@ -13,15 +13,6 @@
 	- **Bonus - Deutsche Premiere
 		- 1991, Premiere
 
-### Multiple Choice
-- Wieviele Chraktere (incl. kleiner Nebenrollen) spricht Dan Castellaneta
-	- [Wiki 1](https://simpsons.fandom.com/wiki/Category:Characters_voiced_by_Dan_Castellaneta)
-	- [Wiki 2](https://simpsonswiki.com/wiki/Category:Characters_voiced_by_Dan_Castellaneta)
-	- 5+
-	- 50+
-	- 150+
-	- 350+
-
 ### Simpsons
 
 - **Adresse der Simpsons**
