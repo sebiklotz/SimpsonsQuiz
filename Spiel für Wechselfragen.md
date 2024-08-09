@@ -39,6 +39,9 @@
 - Scout
 - Taylor
 - Tiffany
+
+*Troy McClure*
+- https://diesimpsons.de/die-simpsons/listen/filme-und-produkte-von-troy-mcclure/
 - Wesley
 - // Gummi-Sue
 - // Rubella Scabies
