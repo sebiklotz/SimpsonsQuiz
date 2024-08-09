@@ -6,7 +6,7 @@
 - Wieviele Episoden Simpsons gibt es (Stand jetzt) - 768
 - (VIDEO) Wie hoch ist Barneys Barzettel als Moe ihn hat von der Nasa durchrechnen lassen - 14 Mrd Dollar S7:F21 - 7:00
 - Wieviele Emmys Haben die Simpsons gewonnen - 27
-- 
+- Wieviele Personen hat Dan Castellaneta seine Stimme verliehen (laut Simpsonswiki.ciom) - 690  
 
 
 
