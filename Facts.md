@@ -75,5 +75,6 @@ Sind auch super einfache Sachen dabei, aber damit kann man bestimmt gut einsteig
 	- Margaret Simpson
 ### Nebencharaktere
 - Nachname von Apu buchstabieren
+  - Nahasapeemapetilon
 - Wie ist der vollständige Name von Milhouse - "Milhouse Mussolini van Houten"
 
