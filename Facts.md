@@ -12,13 +12,6 @@
 	- 1989, FOX
 	- **Bonus - Deutsche Premiere
 		- 1991, Premiere
-- **Wie viele Staffeln gibt es (stand jetzt)
-	- 3x
-	- **Bonus - Wie viele Folgen? (Schätzfrage)
-		- 7xx
-- Wieviele Emmies haben die Simpsons gewonnen
-- Bilderrätsel: 
-	- Deutsche und englische Sprecher zeigen und raten lassen
 
 ### Multiple Choice
 - Wieviele Chraktere (incl. kleiner Nebenrollen) spricht Dan Castellaneta
