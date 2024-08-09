@@ -45,4 +45,19 @@
 - Wesley
 - // Gummi-Sue
 - // Rubella Scabies
+
+*Kaugummi in Lisas Haaren* S7E21 - ca 5:00 / 16:00
+- Erdnussbutter
+- Majo
+- Zitronensaft
+- Olivenöl
+- Tartarsoße
+- Schokoladensirup
+- Tzaziki
+- Ausgelassenen Speck
+- Baba Ganoush
+- Hummus
+- Einfrieren mit EIswürfeln und mit dem Hammer ausschlagen
+- Rauskauen
+- Ostsee-Tintenfisch
 - 
