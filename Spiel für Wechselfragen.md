@@ -13,3 +13,33 @@
 - Muskulöser Homer
 - Normaler Typ im Anzug mit Blumen aus den Ohren
 - Krake die das Telefon reicht 
+
+*Kinder von Cletus*
+- Brittany
+- Cassidy
+- Chloe
+- Cody
+- Dermot
+- Dillon
+- Heather
+- Hunter
+- Jordan
+- Caitlin
+- Candle
+- Kevin
+- Kira
+- Kira
+- Max
+- Morgan
+- Noah
+- Phil
+- Q-Bert
+- Rumer
+- Sasha
+- Scout
+- Taylor
+- Tiffany
+- Wesley
+- // Gummi-Sue
+- // Rubella Scabies
+- 
