@@ -16,6 +16,18 @@
 	- 3x
 	- **Bonus - Wie viele Folgen? (Schätzfrage)
 		- 7xx
+- Wieviele Emmies haben die Simpsons gewonnen
+- Bilderrätsel: 
+	- Deutsche und englische Sprecher zeigen und raten lassen
+
+### Multiple Choice
+- Wieviele Chraktere (incl. kleiner Nebenrollen) spricht Dan Castellaneta
+	- [Wiki 1](https://simpsons.fandom.com/wiki/Category:Characters_voiced_by_Dan_Castellaneta)
+	- [Wiki 2](https://simpsonswiki.com/wiki/Category:Characters_voiced_by_Dan_Castellaneta)
+	- 5+
+	- 50+
+	- 150+
+	- 350+
 
 ### Simpsons
 
